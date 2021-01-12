@@ -1,2 +1,2 @@
-# classcloudsolutions.us
+# classcloudsolutions.com
 web
